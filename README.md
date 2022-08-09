@@ -1,6 +1,6 @@
-# Finetuning Transformers model on TPU with Flax/JAX
+# Finetuning OPT-350m on TPU with Flax/JAX
 
-In this notebook, we will finetune a pretrained transformer model on a TPU with Flax/JAX.
+In this notebook, we will finetune a pretrained transformer model (*Open Pretrained Transformers*) on a TPU with Flax/JAX.
 
 ## Installing the Dependencies
 
